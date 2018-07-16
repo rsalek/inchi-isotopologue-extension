@@ -7,7 +7,7 @@ Develop enhanced specifications within the regular InChI standard for representi
 # Current Team Members:
 * [Hunter Moseley](https://github.com/hunter-moseley) 
 * [Philippe Rocca-Serra](https://github.com/proccaserra) 
-* [Reza Salek](https://github.com/r7salek)
+* [Reza Salek](https://github.com/rsalek)
 * [Masanori Arita](https://github.com/m-arita) 
 * [Emma Schymanski](https://github.com/schymane)
 
